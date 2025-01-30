@@ -27,11 +27,11 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 
-[product-screenshot]: images/data.jpg
+[product-screenshot]: images/data.jpeg
