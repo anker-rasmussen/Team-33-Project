@@ -7,7 +7,7 @@
   <h3 align="center">Team 33 Project</h3>
 
   <p align="center">
-    Lancaster Music hall 
+    Lancasters Music hall 
     <br />
     <a href="https://github.com/anker-rasmussen/Team-33-Project"><strong>Explore the docs »</strong></a>
     <br />
@@ -27,7 +27,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+[![Product Name Screen Shot][product-screenshot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
