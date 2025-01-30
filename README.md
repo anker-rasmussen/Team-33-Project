@@ -36,4 +36,5 @@
 
 
 
-[product-screenshot]: images/data.jpeg
+[product-screenshot]: images/data.jpeg 
+## Used under the cc0 license. Photo taken by Ilya Pavlov
